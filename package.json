@@ -1,0 +1,26 @@
+{
+  "name": "express-HATEOAS-y-los-subrecursos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kradarc/express-HATEOAS-y-los-subrecursos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kradarc/express-HATEOAS-y-los-subrecursos/issues"
+  },
+  "homepage": "https://github.com/kradarc/express-HATEOAS-y-los-subrecursos#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
